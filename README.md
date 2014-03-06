@@ -14,7 +14,7 @@ Explanation taken from [adaptivepatchwork.com](http://adaptivepatchwork.com/2011
 
 # How to contribute?
 
-Github provides the Github logo in Adobe Illustrator format for easy customizing.
+Github provides the Github Octocat in Adobe Illustrator format for easy customizing.
 
 ![Octocat](https://github.com/github/media/blob/master/octocats/octocat.png?raw=true)
 
